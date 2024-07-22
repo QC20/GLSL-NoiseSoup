@@ -1,0 +1,19 @@
+/* Reset default margin and padding */
+body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Position the container to cover the entire viewport */
+  #container {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+  }
+  
+  /* You can add more styles here to customize the appearance */
+  /* For example:
+     #container canvas {
+       filter: hue-rotate(45deg);
+     }
+  */
