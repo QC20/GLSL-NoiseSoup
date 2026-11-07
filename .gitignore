@@ -1,0 +1,12 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor and workspace files
+.idea/
+.vscode/
+
+# Generated output and dependencies
+dist/
+build/
+node_modules/
